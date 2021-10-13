@@ -5,12 +5,13 @@
 }
 
 body {
-    background-image: url('../images/m2.jpg')
+    background-image: url('../images/bg1.jpg');
+    background-size: contain;
 }
 
 .topnav {
     overflow: hidden;
-    background-image: url('../images/bg.jpg');
+    background-image: url('../images/n1.jpg');
     position: relative;
 }
 
@@ -20,10 +21,10 @@ body {
 
 .topnav a {
     float: left;
-    color: white;
+    color: rgb(40, 10, 207);
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 24px;
 }
 
 .topnav a:hover {
@@ -41,7 +42,7 @@ body {
 }
 
 header {
-    padding: 30px;
+    padding: 5px;
     text-align: center;
     font-size: 40px;
     color: #fff;
@@ -49,11 +50,6 @@ header {
 
 .row-1 {
     display: flex;
-}
-
-.column-logo {
-    flex: 50%;
-    height: 300px;
 }
 
 main h1 {
@@ -74,6 +70,7 @@ main h1 {
 .column-main p {
     margin: 15px;
     font-size: 24px;
+    text-align: center;
 }
 
 section::after {
