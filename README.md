@@ -8,8 +8,8 @@
 * HTML
 * CSS
 ## Screenshots:
-<img src="images/screenshot.png">
-<img src="images/screenshot1.png">
+<img src="/images/scn1.png">
+<img src="images/scn2.png">
 
 ## Contact information:
 - For concerns about the project contact through:
